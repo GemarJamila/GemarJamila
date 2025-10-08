@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GemarJamila
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning to become a web dev
+- 🌱 I‘m a Web Developer with 2 years of exp
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me (FB: Gemar C Jamila)
 
